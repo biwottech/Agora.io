@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9c3f3c09.chunk.css",
+    "main.js": "./static/js/main.3f6f4c77.chunk.js",
+    "main.js.map": "./static/js/main.3f6f4c77.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fd4e1abe.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fd4e1abe.js.map",
+    "static/css/2.918d7552.chunk.css": "./static/css/2.918d7552.chunk.css",
+    "static/js/2.f6baec9e.chunk.js": "./static/js/2.f6baec9e.chunk.js",
+    "static/js/2.f6baec9e.chunk.js.map": "./static/js/2.f6baec9e.chunk.js.map",
+    "1336a3d3db7ce3347ba1.worker.js": "./1336a3d3db7ce3347ba1.worker.js",
+    "1336a3d3db7ce3347ba1.worker.js.map": "./1336a3d3db7ce3347ba1.worker.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d403bcfd724d36bb8ac5f3cf62487870.js": "./precache-manifest.d403bcfd724d36bb8ac5f3cf62487870.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.918d7552.chunk.css.map": "./static/css/2.918d7552.chunk.css.map",
+    "static/css/main.9c3f3c09.chunk.css.map": "./static/css/main.9c3f3c09.chunk.css.map",
+    "static/media/index.scss": "./static/media/icon-speaker-large.8104b5e6.png",
+    "static/media/replay.scss": "./static/media/pic-teacher.580ff5f1.png",
+    "static/media/icons.scss": "./static/media/pic-student.f5d3055b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd4e1abe.js",
+    "static/css/2.918d7552.chunk.css",
+    "static/js/2.f6baec9e.chunk.js",
+    "static/css/main.9c3f3c09.chunk.css",
+    "static/js/main.3f6f4c77.chunk.js"
+  ]
+}
