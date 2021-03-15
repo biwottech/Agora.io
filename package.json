@@ -1,6 +1,10 @@
 {
   "name": "Agora-Edu-Web",
   "version": "6.0.0",
+  "engines": {
+    "node": "14.x", 
+    "npm": "7.x"
+  },
   "private": true,
   "homepage": ".",
   "main": "./src/index.tsx",
@@ -191,5 +195,5 @@
     "agora-electron-sdk": "education290",
     "react-async-hook": "^3.6.2",
     "react-resize-observer": "^1.1.1"
-  }
+  } 
 }
