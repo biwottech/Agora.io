@@ -102,7 +102,7 @@ export const Hello = function(){
           }}
         >
           
-          <Gif gif={modalGif} width={200} />
+          {/* <Gif gif={modalGif} width={200} /> */}
         </div>
       )}
         <h4>Testing the test </h4></div>

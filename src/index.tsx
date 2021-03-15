@@ -1,12 +1,12 @@
 import 'promise-polyfill/src/polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.scss';
+import './index.scss'; 
 import App from './pages/index';
 import * as serviceWorker from './serviceWorker';
 import TagManager from 'react-gtm-module';
 import Eruda from 'eruda';
-import UAParser from 'ua-parser-js';
+import UAParser from 'ua-parser-js'; 
 import {isElectron} from './utils/platform';
 
 const parser = new UAParser();
